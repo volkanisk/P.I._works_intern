@@ -1,3 +1,4 @@
+#Volkan Işık  15 April 2022
 import numpy as np
 
 data = np.genfromtxt("new_stats.csv", dtype= [("U20"),("U20"),("i8")], delimiter = ",")
